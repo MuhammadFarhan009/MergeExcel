@@ -28,7 +28,7 @@ df1 = df1[['Your_column1', 'Your_column2']]
 
 when your merge excel file there have a 4 parameter 
 - Your excel file name 1
-- your excel file name 2
+- Your excel file name 2
 - Parameter for merge
 - Type of merge you want to perform. For more documentation [Click here](https://pandas.pydata.org/docs/user_guide/merging.html) 
 ```
